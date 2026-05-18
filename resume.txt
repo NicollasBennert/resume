@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 nicollas bennert
+=======
+hi felipe tudo bem com vc?
+>>>>>>> dcec514d1772ec7418a0811a2d1f3bd504586dc0
